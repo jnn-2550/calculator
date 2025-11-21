@@ -5,14 +5,14 @@
   font-family: "Roboto",sans-serif;
 }
 body{
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
   background-color: gray;
 }
 .calculator{
-  padding: 3rem;
+  padding: 2rem;
   background-color: rgb(56, 54, 54);
   border-radius: 10px;
 }
@@ -45,3 +45,4 @@ form .cont-1{
   background-color: yellow;
 
 } 
+
